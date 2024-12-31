@@ -22,7 +22,7 @@ classifier = [
 ]
 
 [dependencies]
-itertools = "0.10.3"
+itertools = "0.14.0"
 itertools-num = "0.1.3"
 rand = "0.8.5"
 rand_chacha = "0.3.1"
